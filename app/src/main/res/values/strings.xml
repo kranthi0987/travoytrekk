@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">travoytrekk</string>
+    <string name="title_activity_splash_activity">Splash_activity</string>
+    <string name="splash_logo">Splash logo</string>
+</resources>
